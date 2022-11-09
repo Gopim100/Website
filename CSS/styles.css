@@ -1,0 +1,701 @@
+
+.navbar-brand{
+    position: relative;
+    left: 8px;
+}
+.icon{
+    font-size: xx-large;
+    position: relative;
+    left: 80px;
+}
+.nav-item
+{
+    padding: 0 18px;
+    font-weight: 600;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+}
+.container-fluid{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+.para{
+    line-height: 3.5;
+    padding-bottom: 2%;
+}
+.resize{
+    padding: 1 1rem;
+}
+.gap
+{
+    padding-top: 5%;
+}
+.para{
+    font-size:16px;
+    line-height: 2;
+    font-weight: bold;
+}
+.li{
+    background-color:#CDF0EA;
+}
+.line{
+    text-align: center;
+    display: inline-block;
+    padding: 1% 3%;
+}
+.lines{
+    display: inline-block;
+    position: absolute;
+    right: 400px;
+    top:690px;
+}
+.btcolo{
+    background-color: #24babf;
+}
+.image{
+    width:70%;
+}
+.cent{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 80px;
+}
+.dt{
+ background-color:#28a4a8;
+ font-size:13px;
+ padding:3px;
+ margin:10px;
+ height:25px;
+ width:30vw;
+ text-align: center;
+ color:white;
+ font-weight:bold;
+}
+.text{
+ text-decoration: underline;
+ padding:10px;
+ color:#24babf;
+}
+.locations{
+ background-color:#ccd8d9;
+ background-size: cover;
+ width:100vw;
+}
+.li{
+ display:flex;
+ flex-direction: row;
+ align-items:flex-end;
+ align-content:center;
+ justify-content: space-around;
+}
+.lh{
+ display:flex;
+ height:40px;
+ width:28px;
+ align-self: flex-end;
+}
+.lb{
+ display:flex;
+ background-color:#ccd8d9;
+ width:100vw;
+ height:6vh;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ margin-bottom: 2rem;
+}
+.ln{
+ font-size:20px;
+ align-content: center;
+}
+.ci{
+ width:10vw;
+ height:0vh;
+ margin:0px;
+}
+.we{
+ display:flex;
+ color:black;
+ font-size:20px;
+ text-align: center;
+ align-items: center;
+ padding:10px;
+ margin:0px;
+}
+.do{
+ padding:60px;
+ align-self: center;
+ text-align:center;
+}
+.bt{
+ border-width:0px;
+ font-weight: bold;
+}
+.exp{
+ display:flex;
+ background-color:white;
+ justify-content: center;
+ text-align: center; 
+ padding: 3%;
+}
+.exm{
+ background-color:#28a4a8;
+ font-size:15px;
+ padding:3px;
+ margin:4px;
+ height:35px;
+ width:25vw;
+ text-align: center;
+ color:white;
+ font-weight:bold;
+}
+.bird{
+ display:flex;
+ background-color:white;
+ justify-content:flex-end;
+ width:100vw;
+}
+.birdp{
+ height:50px;
+ width:55px;
+}
+.about{
+ background-color:white;
+ gap:12px;
+ padding: 100px 0;
+}
+.abpic{
+ width:40%;
+ margin: 0 100px;
+ float: left;
+}
+.abpara{
+    font-weight: bold;
+    text-align: left;
+    line-height: 3;
+}
+.network{
+ background-color:#5cab95;
+ padding: 50px;
+}
+.prop{
+ display:inline-block;
+ text-align: center;
+ padding: 3% 3%;
+}
+.proimg1{
+    width: 50%;
+}
+.proimg{
+  width: 40%;
+}
+.proimg3{
+    width: 95%;
+}
+.np{
+    color: white;
+    margin: 30px;
+    font-size: x-large;
+}
+.hea{
+    padding-top: 4%;
+}
+.net{
+ display:flex;
+ align-self:center;
+ flex-direction: row;
+ justify-content: center;
+}
+.wo{
+ display:flex;
+ flex-direction:row;
+ align-content:center;
+ justify-content:center;
+ width:100vw;
+ padding: 5% 0%;
+}
+.space{
+ background-color:white;
+ width:33vw;
+}
+.wedo{
+    text-align: center;
+    padding-top: 0px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.wedoimage{
+    height: 80px;
+    width: 70px;
+    padding-top: 20px;
+
+}
+.bir{
+ display:flex;
+ justify-content: flex-end;
+ width:33vw;
+}
+.hi{
+ width:20vw;
+}
+.steps{
+ display:flex;
+ background-color: white;
+ width:100vw;
+}
+.step{
+ display:flex;
+ background-color: white;
+ flex-direction: row;
+ justify-content: center;
+ width:33vw;
+}
+.bard{
+ display:flex;
+ justify-content: flex-start;
+ width:53vw;
+}
+
+.rating{
+ display:flex;
+ background-color:#c7d1cb;
+ flex-direction:column;
+ width:100vw;
+ gap:12px;
+}
+.stars{
+ display:flex;
+ background-color:#c7d1cb;
+ flex-direction:row;
+ width:100vw;
+ height:6vh;
+}
+.star{
+ display:flex;
+ height:15px;
+ width:10px;
+ padding:20px;
+ justify-content: center;
+}
+.spac{
+ background-color:#c7d1cb;
+ width:33vw;
+}
+.sta{
+ display:flex;
+ width:33vw;
+ flex-direction: row;
+}
+.ratingpara{
+ display:flex;
+ width:100vw;
+ justify-content:center;
+ gap:0px;
+ 
+}
+.rp{
+ align-self:center;
+ align-content: center;
+ align-items:center;
+ text-align: center;
+}
+.james{
+ display:flex;
+ height:10vh;
+ width:100vw;
+ justify-content: center;
+}
+.stars{
+ display:flex;
+ height:20px;
+ width:15px;
+ padding:20px;
+ justify-content: center;
+}
+.wow{
+ display:flex;
+ flex-direction:row;
+ align-content:center;
+ justify-content:center;
+ width:100vw;
+ margin-bottom: 0rem;
+}
+.companies{
+ display:flex;
+ flex-direction: rows;
+ width:100vw;
+ background-color: white;
+ gap:20px;
+}
+.imgs{
+ height:6vh;
+ width:10vw;
+ padding:20px;
+}
+.imghome{
+    height:25vh;
+    width:100%;
+}
+.inter{
+    line-height: 2.5;
+    padding-bottom: 2%
+}
+.read{
+    color:rgb(41, 169, 219);
+    font-weight: bold;
+    text-decoration: none;
+}
+.row2{
+    display:flex;
+    justify-content: center;
+    text-align: center; 
+    padding: 3%;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .ex2{
+    display:flex;
+    background-color:white;
+    justify-content: center;
+    text-align: center; 
+    padding: 1%;
+   }
+   .exm2{
+    background-color:#28a4a8;
+    font-size:15px;
+    padding:3px;
+    margin:4px;
+    height:35px;
+    width:20vw;
+    text-align: center;
+    color:white;
+    font-weight:bold;
+   }
+   .exm3{
+    background-color:#d3d2f5;
+    font-size:15px;
+    padding:3px;
+    margin:4px;
+    height:35px;
+    width:15vw;
+    text-align: center;
+    color:black;
+    font-weight:bold;
+    border-radius: 45px;
+    border-width: 0.1px;
+   }
+   .exm32:hover{
+    background-color:#1db985;
+    font-size:15px;
+    padding:3px;
+    margin:4px;
+    height:35px;
+    width:10vw;
+    text-align: center;
+    color:black;
+    font-weight:bold;
+    border-radius: 45px;
+    border-width: 0.1px;
+   }
+   .maplocation{
+    width:100vw;
+    background-size: cover;
+    height:65vh;
+    margin-top: 35px;
+    background-image: url("https://res.cloudinary.com/dujvte3yr/image/upload/v1665393231/my/map-img_dg7cts.png");
+   }
+   .map2{
+    padding-left: 590px;
+    padding-top:290px;
+    height:58vh;
+    width:50vw;
+   }
+   .birdimg{
+    padding-top: 15px;
+    padding-left: 0px;
+   }
+   .conta{
+    text-align: center;
+    align-content: center;
+    padding-top: 40px;
+    padding-right: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+   }
+   .cimg{
+    align-content: flex-end;
+    padding-top:30px;
+    padding-left: 150px;
+   }
+   .textblock{
+    width:30vw;
+    height:6vh;
+    padding-top:15px;
+    padding-bottom: 10px;
+    text-align: start;
+   }
+   .textblock2{
+    width:30vw;
+    height:20vh;
+    padding-top:15px;
+    padding-bottom: 10px;
+   }
+   .phone{
+    height:10vh;
+    width:5vw;
+    padding-top: 10px;
+    }
+    .number{
+        color:black;
+        font-weight: bold;
+        padding-top: 180px;
+        text-decoration: none;
+        text-align: bottom;
+        transition: none;
+    }
+    .search{
+        width:25vw;
+        height:18vh;
+        background-size: cover;
+        padding-left: 180px;
+    }
+    .address{
+        font-weight: bold;
+    }
+    .building{
+        background-size: cover;
+        height:30vh;
+        width:40vw;
+        padding-left: 225px;
+        padding-bottom: 1px;
+    }
+    .backcolor{
+        background-color: black;
+        width:100vw;
+        padding-left: 20px;
+    }
+    .companylogo{
+        padding-top: 20px;
+        padding-left: 20px;
+        
+    }
+    .bord{
+        border-right: white;
+        border-right-style: dashed;
+    }
+    .footer{
+        padding-top: 7.5%;
+        padding-left: 7.5%;
+        padding-right: 7.5%;
+    }
+    .links{
+        width: 20px;
+        margin: 0.5% 2.5%;
+        position: relative;
+        left: 0px;
+    }
+    .links-icon{
+        width: 15px;
+        margin: 2% 3.5%;
+        position: relative;
+        left: 13px;
+    }
+    .focontact{
+        padding-left: 20px;
+    }
+    .contacthead{
+        font-size:20px;
+        font-weight: bold;
+        color: white;
+        padding-top:8px;
+        padding-bottom: 1px;
+    }
+    .linksmail{
+        width: 18px;
+        margin: 0.5% 2.5%;
+        position: relative;
+        left: 0px;
+    }
+    .mob{
+        color:white;
+        text-decoration: none;
+        font-size: 15px;
+    }
+    .officeaddress{
+        padding-left: 20px;
+        font-size: 10px;
+        color:white;
+        font-weight: bold;
+        padding-top: 20px;
+    }
+    .ftservices{
+        padding-top: 50px;
+        color:white;
+    }
+    .ftserv{
+        color:white;
+        text-decoration: none;
+        text-decoration-line: none;
+        padding-bottom: 0px;
+    }
+    .copyrightbg{
+        color:white;
+        background-color: black;
+        text-align: center;
+        width:100vw;
+        height:8vh;
+        align-self: center;
+        padding-top: 15px;
+    }
+    .companybackbones{
+        background-color:#189471 ;
+        width:100vw;
+    }
+    .companylinks{
+        padding-top: 50px;
+        padding-left: 155px;
+        padding-bottom: 100px;
+    }
+    .complinks{
+        width: 20px;
+        padding-bottom: 10px;
+        margin: 0.5% 2.5%;
+        position: relative;   
+    }
+    .ceo{
+        height:100%;
+        width:100%;
+        padding-top: 10px;
+        padding-left: 20px;
+    }
+    .ceonameabout{
+        padding-top: 60px;
+        color:white;
+    }
+    .ceoname{
+        color:white;
+    }
+    .dots{
+        border-top-style: dashed;
+    }
+    .adviceboard{
+        padding-top: 60px;
+    }
+    .advisebird{
+        height:40px;
+        width:30px;
+        padding-top: 10px;
+        margin-left: 0%;
+    }
+    .advisehead{
+        color:white;
+        text-align: center;
+        padding-right: 140px;
+        padding-top:10px ;
+    }
+    .content_img{
+        position: relative;
+        width: 200px;
+        height: 200px;
+        float: left;
+        margin-right: 10px;
+       }
+       .content_img div{
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background: black;
+        color: white;
+        margin-bottom: 0px;
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transition: visibility 0s, opacity 0.5s linear; 
+        transition: visibility 0s, opacity 0.5s linear;
+       }
+       .content_img:hover{
+        cursor: pointer;
+       }
+       
+       .content_img:hover div{
+        width: 280px;
+        visibility: visible;
+        opacity: 0.9; 
+       }
+    .advisorimage{
+        height:50vh;
+        width:120%;
+        padding-bottom: 30px;
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+    .advisorimage2{
+        height:50vh;
+        width:80%;
+        padding-bottom: 30px;
+        padding-top: 20px;
+    }
+    .aboutadvisors{
+        padding:10px;
+    }
+    .starnew{
+        padding-left: 560px;
+        padding-top: 20px;
+    }
+    .starnew2{
+        padding-left: 5px;
+        padding-top: 20px;
+    }
+    .rateabout{
+        text-align: center;
+        font-size: 18px;
+
+    }
+    .managers{
+        padding-left: 200px;
+        align-items: center;
+        align-self: center;
+        align-content: center;
+    }
+    
+
+
+    
+
+.wcu-section {
+  background-color: #f9fbfe;
+}
+.wcu-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.wcu-card-image {
+  width: 87px;
+  height: 90px;
+}
+.wcu-card-title {
+  color: black;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: bold;
+}
+.wcu-card-description {
+  color: black;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
